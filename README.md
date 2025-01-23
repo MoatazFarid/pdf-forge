@@ -1,5 +1,7 @@
 # PDFForge
 
+[![Python Tests](https://github.com/MoatazFarid/pdf-forge/actions/workflows/python-tests.yml/badge.svg)](https://github.com/MoatazFarid/pdf-forge/actions/workflows/python-tests.yml)
+
 A powerful command-line tool for converting images to PDF format with advanced features.
 
 ## Features
